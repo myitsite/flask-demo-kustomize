@@ -9,4 +9,4 @@ resources:
 - pre-sync.yaml
 images:
 - name: zhaojiacan/flask-demo
-  newTag: 7981e2c6a781e78470b6907a0e874fb65e473e60
+  newTag: 0ce59fe7c767bf8efe1b1c691f22bf429a09ea6d
