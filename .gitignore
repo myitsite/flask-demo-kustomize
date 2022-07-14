@@ -1,2 +1,3 @@
 .idea
 .public-cert.pem
+.secret.yaml
